@@ -1,1 +1,1 @@
-# Bilingual-Word-Embeddinngs-with-Bucketed-CNN-for-Parallel-Sentence-Extraction
+# Bilingual-Word-Embeddings-with-Bucketed-CNN-for-Parallel-Sentence-Extraction
