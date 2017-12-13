@@ -1,0 +1,30 @@
+_sentSim_cnn_Nonbucketed_15_200_20_5_0.0005
+True Positive, False Positive, False Negative, True Negative
+2853 98 21 6635
+BucketSize :  15
+Accururacy : 98.7613198709
+Precision : 0.966790918333
+Recall : 0.992693110647
+F1 : 0.979570815451
+
+
+_sentSim_cnn_Nonbucketed_15_200_20_5_0.0005
+True Positive, False Positive, False Negative, True Negative
+2853 98 21 6635
+BucketSize :  15
+Accururacy : 0.987613198709
+Precision : 0.966790918333
+Recall : 0.992693110647
+F1 : 0.979570815451
+
+
+_sentSim_cnn_Nonbucketed_15_200_20_5_0.0005
+True Positive, False Positive, False Negative, True Negative
+2853 98 21 6635
+BucketSize :  15
+Accururacy : 0.987613198709
+Precision : 0.966790918333
+Recall : 0.992693110647
+F1 : 0.979570815451
+
+
