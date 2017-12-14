@@ -3,3 +3,4 @@ data/unsup.128.en filter=lfs diff=lfs merge=lfs -text
 data/data filter=lfs diff=lfs merge=lfs -text
 data/data/bucc2017/de-en/train_valid_test filter=lfs diff=lfs merge=lfs -text
 data/data/bucc2017/de-en/train_valid_test/data_de_en_vecs filter=lfs diff=lfs merge=lfs -text
+data/data/bucc2017/de-en/train_valid_test/data_de_en_vecs_bucketed filter=lfs diff=lfs merge=lfs -text
