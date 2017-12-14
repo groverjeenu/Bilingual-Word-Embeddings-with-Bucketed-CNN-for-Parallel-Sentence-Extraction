@@ -219,14 +219,14 @@ def test(testX, test_Y, th=0.5):
         val.extend(vals)
 
     val = np.array(val)
-    print "Testing of CNN Network completed\n"
+    print "\nTesting of CNN Network completed"
 
     ans = np.array([1 if x > th else 0 for x in val])
     val = np.mean((ans == test_Y)) * 1.0
 
-    print val
-    print sk.recall_score(test_Y, ans)
-    print sk.precision_score(test_Y, ans)
+    print 'Accuracy : ', val
+    print 'Recall : ', sk.recall_score(test_Y, ans)
+    print 'Precision : ', sk.precision_score(test_Y, ans)
 
     cnt = 0
     cntT = 0
